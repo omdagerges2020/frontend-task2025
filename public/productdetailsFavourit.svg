@@ -1,0 +1,10 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-3" y="-3" width="54" height="54"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(1.5px);clip-path:url(#bgblur_0_1_570_clip_path);height:100%;width:100%"></div></foreignObject><g data-figma-bg-blur-radius="3">
+<rect width="48" height="48" rx="8" fill="white" fill-opacity="0.3"/>
+<rect x="0.5" y="0.5" width="47" height="47" rx="7.5" stroke="#404040" stroke-opacity="0.1"/>
+<path d="M30.6666 16.6667C32.1393 16.6667 33.3333 17.8606 33.3333 19.3333M24 15.6034L24.9134 14.6667C27.7546 11.753 32.3611 11.753 35.2024 14.6667C37.9673 17.5021 38.0522 22.0717 35.3947 25.0132L27.7596 33.4642C25.7312 35.7093 22.2687 35.7093 20.2403 33.4642L12.6052 25.0133C9.94767 22.0718 10.0326 17.5022 12.7976 14.6667C15.6388 11.753 20.2453 11.753 23.0866 14.6667L24 15.6034Z" stroke="#BE968E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="bgblur_0_1_570_clip_path" transform="translate(3 3)"><rect width="48" height="48" rx="8"/>
+</clipPath></defs>
+</svg>
